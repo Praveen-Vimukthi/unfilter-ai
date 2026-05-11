@@ -1,4 +1,4 @@
-# 🪄 Unfilter AI — Photo Filter Removal with Machine Learning
+#  Unfilter AI — Photo Filter Removal with Machine Learning
 
 > Strip Instagram-style color filters from photos and restore their natural look using a trained ML model.
 
@@ -84,7 +84,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-> ⚠️ Place your `model_2.pkl` file inside the `backend/` folder before running.
+> ⚠️ Place your `model.pkl` file inside the `backend/` folder before running.
 
 ```bash
 # Start the server
